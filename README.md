@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+### What I am listening now... [Make your own!](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xdjqgmmxabmbnp734ftt6jq&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=cc7702&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21xdjqgmmxabmbnp734ftt6jq&redirect=true)
+
+
 <!--
 **raacker/raacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
