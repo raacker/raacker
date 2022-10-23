@@ -1,4 +1,4 @@
-## Howdy! 👋
+### Howdy! 👋
 
 I am...
 
@@ -11,7 +11,7 @@ I am...
 - 😛 I enjoy
   - 😼 Something chill development like [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
   - 🎸 Electric guitar and bass player
-  - 🎶 Hand-picked Playlist creator [Find me in Spotify](https://open.spotify.com/user/21xdjqgmmxabmbnp734ftt6jq?si=475d1d30a83c4049) 
+  - 🎶 Hand-picked Playlist creator. [Find me in Spotify](https://open.spotify.com/user/21xdjqgmmxabmbnp734ftt6jq?si=475d1d30a83c4049) 
   - Developing simple scripts for major streaming services' playlist importer and exporter [playlist_api](https://github.com/raacker/playlist_api)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haven-kim/)
 - ⚡ Fun fact: I did a remote work for 1 and half years even before the covid but got into Vancouver office right after 😛 
