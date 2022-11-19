@@ -11,7 +11,7 @@ I'm Haven!
   - 🎢 Something chill development like [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
   - 🏔 [Grouse Grinder](https://www.grousemountain.com/grousegrind), Personal Best - 00:51:15, Oct 11 2022 
   - 🎸 Electric guitar and bass player
-  - 🎶 Hand-picked Playlist creator [Find me in Spotify](https://open.spotify.com/user/21xdjqgmmxabmbnp734ftt6jq?si=475d1d30a83c4049)
+  - 🎶 Hand-picked Playlist curator [Find me in Spotify](https://open.spotify.com/user/21xdjqgmmxabmbnp734ftt6jq?si=475d1d30a83c4049) 
   - Developing simple scripts for major streaming services' playlist trader [playlist_trader](https://github.com/raacker/playlist_trader)
 - 🏃🏻 Currently I am working on
   - Posting "[Teach Me In One Sentence - Design Pattern](https://raacker.github.io/categories/#designpattern)" series as a result of [Design Pattern book study](https://github.com/Vancouver-KDD/book-study-gof-design-pattern)
