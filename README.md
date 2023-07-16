@@ -3,7 +3,7 @@
 I'm Haven! 
 
 - 💻 Software Engineer at startup [Polyga Inc.](https://www.linkedin.com/company/polyga-inc./)
-  - 4+ years of C++14 experience on 3D Geometry Alignment & Processing and OpenGL based Desktop Application
+  - 4+ years of C++ experience on 3D Geometry Alignment & Processing and OpenGL based Desktop Application
 - 💡 Interested in 
   - 🧾 Improved and enhanced **User Experience** applied to Software Development
   - 🛠 **Good** Software Architecture Design and Engineering
@@ -15,8 +15,6 @@ I'm Haven!
   - Developing simple scripts for major streaming services' playlist trader [playlist_trader](https://github.com/raacker/playlist_trader)
 - 🏃🏻 Currently I am working on
   - Posting "[Teach Me In One Sentence - Design Pattern](https://raacker.github.io/categories/#designpattern)" series as a result of [Design Pattern book study](https://github.com/Vancouver-KDD/book-study-gof-design-pattern)
-  - Leading [UX Study Group](https://github.com/Vancouver-KDD/ux-study) at [Vancouver KDD](https://discord.gg/WpgCyTQd) which aims [Google UX Design Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
-  - Some new skills, Front-End; React, Apollo and Next.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haven-kim/), [Email](mailto:haven.cpp@gmail.com)
 - ⚡ Fun fact: I did a remote work for 1 and half years even before the covid but got into Vancouver office right after 😛
 
