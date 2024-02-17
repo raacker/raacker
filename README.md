@@ -5,7 +5,8 @@ I'm Haven!
 - 💻 Software Engineer at Woowa Brothers
 - 💡 Interested in 
   - 🛠 **Good** Software Architecture Design and Engineering
-  - 🧑‍⚖️TDD in C++
+  - 🧑‍⚖️ TDD in C++
+  - 🤖 ROS2, SLAM, and mapping
 - 😛 I do like
   - 🎸 Electric bass
   - 🏃 Jogging
