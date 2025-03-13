@@ -14,3 +14,5 @@ I'm Haven!
   - 🇪🇸 Studying Español
   - ![image](https://github.com/raacker/raacker/assets/12020398/3ba997f4-4083-48d8-9ade-057b9627139f) Obsidian User
   - 🎢 Some chill development like [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)
+- My Projects
+  - [Lord of the rings - Duel for Middle-Earth Solo variant](https://lotr-duel.vercel.app/)
